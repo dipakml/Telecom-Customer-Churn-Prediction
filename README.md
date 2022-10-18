@@ -1,5 +1,7 @@
 ## End-to-End Machine Learning Project- Telecom Customer Churn Prediction using Machine Learning
 
+<img target="_blank" src="https://github.com/dipakml/Telecom-Customer-Churn-Prediction/blob/master/images/Telecom-Company-Customer-Churn-Prediction.jpg" width=1000>
+
 ### Table of Content
   * [Overview](#overview)
   * [Dataset Information](#dataset)
@@ -62,13 +64,7 @@ Web application Snapshot:
 
 ### Steps in the project execution
 
-- Data gathering 
-- Descriptive Analysis 
-- Data Visualizations 
-- Data Preprocessing 
-- Data Modelling 
-- Model Evaluation 
-- Model Deployment 
+<img target="_blank" src="https://github.com/dipakml/Telecom-Customer-Churn-Prediction/blob/master/images/0_V0GyOt3LoDVfY7y5.png" width=800>
 
 ### Technical Aspect 
 
