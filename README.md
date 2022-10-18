@@ -40,7 +40,7 @@ Customer account information – how long they’ve been a customer, contract, p
 
 Demographic info about customers – gender, age range, and if they have partners and dependents.
 
-Dataset used in this project can be found here : [Dataset] (https://www.kaggle.com/datasets/blastchar/telco-customer-churn?datasetId=13996&sortBy=voteCount)
+Dataset used in this project can be found here : [Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn?datasetId=13996&sortBy=voteCount/)
 
 
 ### Motivation
