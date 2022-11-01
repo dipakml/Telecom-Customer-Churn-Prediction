@@ -70,7 +70,7 @@ Web application Snapshot:
 
 - Training a machine learning model using scikit-learn. 
 - Building and hosting a streamlit web app on Heroku. 
-- A user has to input machine operating features.
+- A user has to input customer's key features.
 - Once it gets all the fields information , the prediction is displayed. 
 
 
