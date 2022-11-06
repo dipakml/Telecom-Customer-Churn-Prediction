@@ -55,7 +55,7 @@ Idea is to implement the end to end machine learning project while using free de
 
 
 ### Demo
-[Visit this link for live demo](https://telecomchurn7.herokuapp.com/)
+[Visit this link for live demo of the web application](https://telecomchurn7.herokuapp.com/)
 
 Web application Snapshot:
 
